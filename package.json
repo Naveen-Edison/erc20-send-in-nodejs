@@ -1,0 +1,19 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdiThomas/erc20-send-in-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdiThomas/erc20-send-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/EdiThomas/erc20-send-in-nodejs#readme"
+}
